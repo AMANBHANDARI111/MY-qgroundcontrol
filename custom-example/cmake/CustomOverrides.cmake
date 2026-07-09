@@ -6,7 +6,7 @@
 # ----------------------------------------------------------------------------
 # Application Branding
 # ----------------------------------------------------------------------------
-set(QGC_APP_NAME "Custom-QGroundControl" CACHE STRING "App Name" FORCE)
+set(QGC_APP_NAME "Navlink" CACHE STRING "App Name" FORCE)
 
 # ----------------------------------------------------------------------------
 # Custom Icons and Graphics
